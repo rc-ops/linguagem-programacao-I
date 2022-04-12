@@ -20,6 +20,6 @@ public class While {
                 break;
             }
         }
-        System.out.println("Parabéns! Você acertou em " + tentativas + " tentativas");
+        System.out.println("Parabéns! Você acertou em " + tentativas + " tentativas.");
     }
 }
