@@ -5,7 +5,7 @@ public class TestaOperacaoMatematica {
         calculaOperacao(new Soma(), 2500, 200);
         calculaOperacao(new Multiplicacao(), 67, 970);
         calculaOperacao(new Divisao(), 76, 123);
-        calculaOperacao(new Substracao(), 155, 68);
+        calculaOperacao(new Subtracao(), 155, 68);
     }
 
     public static void calculaOperacao(OperacaoMatematica o, double x, double y){
